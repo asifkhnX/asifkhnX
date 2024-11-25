@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @asifkhnX
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React and Node js
-- 💞️ I’m looking to collaborate on something related to technology
-- 📫 How to reach me email: asifkhn2000@gmail.com
+- 🌱 I’m MERN STACK Developer.
+- 👀 I’m Build Both Andriod And Web Application.
+- 💞️ I Love games.
+- 📫 How to reach me email: asifkhn2000@gmail.com.
 
 <!---
 asifkhnX/asifkhnX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
