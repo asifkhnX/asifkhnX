@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asifkhnX
 - 🌱 I’m MERN STACK Developer.
-- 👀 I’m Build Both Andriod And Web Application.
+- 👀 I Build Both Android And Web Application.
 - 💞️ I Love games.
 - 📫 How to reach me email: asifkhn2000@gmail.com.
 
